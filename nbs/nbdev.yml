@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "coding"
+  site-url: "https://mohammed8079.github.io/coding"
+  description: "project to document learning"
+  repo-branch: master
+  repo-url: "https://github.com/mohammed8079/coding"
